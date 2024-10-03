@@ -82,9 +82,8 @@ X = dataset.iloc[:, :-1].values
  xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
  y_prednew = predict(theta, xnew)
  print('New prediction:', y_prednew)
-```
-
-## OUTPUT:
+```````
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/a13a042b-62f8-41c9-be7c-81922c488766)
 
 
